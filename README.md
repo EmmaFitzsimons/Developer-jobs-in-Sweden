@@ -1,5 +1,6 @@
 # Developer-jobs-in-Sweden
 Jobs in Sweden for Developers
+
 On behalf of our client, a global leader in consulting, technology services and digital transformation, we are looking for a talented and proactive Senior .Net Developer to join our team of sharp, technology and business savvy developers. Our cross-cultural team is collaborating on an exciting long-term project with our customer, one of Sweden’s top insurers, on a live and critical claims management application.
 
 Do you want a challenge where you will have an opportunity to help our customer realise their digital vision? Here you will play a key role in the overall development of this transaction intensive and business critical application, made fully with the Microsoft technology stack, including WPF, WCF, SQL Server, SSIS, Azure DevOps, test automation and more.  Our client has a defined roadmap to move this application to the Cloud, and to rearchitect this application using microservices etc. to break the monolithic block that currently exists today. There is also an additional, exciting workstream that focuses on continuously reducing the technical debt from the application.
